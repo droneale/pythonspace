@@ -1,2 +1,1 @@
-"A collection of functions for various Patentspace calculations"
-
+"A collection of functions for various Patentspace analysis calculations and null model simulations"
